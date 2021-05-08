@@ -1,0 +1,7 @@
+{
+  "name": "paso_pantalla",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
